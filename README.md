@@ -45,6 +45,12 @@ pip install pandas numpy matplotlib scipy
 1. Bigmac price: https://www.kaggle.com/datasets/vittoriogiatti/bigmacprice/data
 2. Netflix movies and TV Shows: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
+**Os datasets se encontram para download neste repositório e estão no formato *csv*, este formato é padrão em sua maioria nas análises de dados, sua sintaxe é separar os dados por ponto e vírgula. Os arquivos .csv podem ser lidos por softwares de planilha como: Excel e Google Sheets. Os arquivos estão nomeados da seguinte forma:**
+
+1. BigmacPrice.csv
+2. BigmacPriceJuly2022.csv
+3. filmes_netflix.csv
+
 ## Conteúdo estudado e aprendido nessa disciplina
 
 1. Conceito de estatística: descritiva e indutiva;
