@@ -4,7 +4,7 @@
 Repositório dedicado as atividades das aulas de estatística da pós-graduação em ciência de dados, realizada na Descomplica Faculdade Digital. Professor: Yan Wernek
 
 ## Detalhes técnicos
-Para a realização das atividades foi utilizado o ambiente de desenvolvimento: Google Colab e as bibliotecas: pandas, numpy e matplotlib.
+Para a realização das atividades foi utilizado o ambiente de desenvolvimento: Google Colab e as bibliotecas: pandas, numpy, matplotlib e scipy.
 
 ### Pré-requisitos
 Para melhor aproveitamento do conteúdo é necessário baixar os datasets disponiblizados neste repositório e carregá-los no google colab. Caso prefira é possúvel usar o Jupyter Notebook localmente para a análise dos dados, para isso você precisará seguir algumas etapas:
@@ -22,7 +22,7 @@ pip install jupyter
 4. Depois que o Jupyter for instalado você pode acessá-lo localmente pelo endereço: http://localhost:8888
 5. Para o melhor aproveitamento dos seus estudos instale as seguintes bibliotecas python: pandas, numpy e matplotlib, usando o terminal do seu sistema operacional
 ```
-pip install pandas numpy matplotlib
+pip install pandas numpy matplotlib scipy
 ```
 *após a instalação você deve importar as bibliotecas no jupyter notebook antes de iniciar a análise de dados. Abaixo irei deixar vídeos com mais informações e modo de uso do Jupyter Notebook.*
 
@@ -30,6 +30,7 @@ pip install pandas numpy matplotlib
 1. **Pandas** é a biblioteca de tratamento de dados do python, com ela você conseguirá fazer suas primeiras análises e o tratamento dos seus dados para uma análise ainda melhor e eficaz: https://pandas.pydata.org/
 2. **Numpy** é a biblioteca de cálculos matemáticos do python, com ela você conseguirá realizar cálculos matemáticos em matrizes e vetores no python: https://numpy.org/
 3. **Matplotlib** é uma das bibliotecas de visualização de dados do python, com ela você conseguirá criar gráficos que represente suas análises de forma gráfica ajudando na interpretação dos dados e na tomada de decisões: https://matplotlib.org/
+4. **Scipy** é a biblioteca de cálculos científicos e estatísticos do python, com ela você conseguirá realizar cálculos de correlação de dados por exemplo: https://scipy.org/
 
 ## Sobre o Jupyter Notebook e Google Colab:
 1. O que faz o Jupyter Notebook: https://www.youtube.com/watch?v=CFJaCB_K5bo
