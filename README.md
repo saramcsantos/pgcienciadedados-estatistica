@@ -32,7 +32,7 @@ pip install pandas numpy matplotlib scipy
 3. **Matplotlib** é uma das bibliotecas de visualização de dados do python, com ela você conseguirá criar gráficos que represente suas análises de forma gráfica ajudando na interpretação dos dados e na tomada de decisões: https://matplotlib.org/
 4. **Scipy** é a biblioteca de cálculos científicos e estatísticos do python, com ela você conseguirá realizar cálculos de correlação de dados por exemplo: https://scipy.org/
 
-## Sobre o Jupyter Notebook e Google Colab:
+## Sobre o Jupyter Notebook e Google Colab
 1. O que faz o Jupyter Notebook: https://www.youtube.com/watch?v=CFJaCB_K5bo
 2. Como usar o Google Colab para analisar dados: https://www.youtube.com/watch?v=_mIwsA2ddSc
 3. Com usar o Jupyter Notebook e o Python sem instalar: https://www.youtube.com/watch?v=lPTFwzvaVUY
@@ -40,6 +40,10 @@ pip install pandas numpy matplotlib scipy
 5. Documentação do Google Colab: https://colab.google/
 
 *para utilizar o google colab você deve ter uma conta google*
+
+## Sobre os datasets usados nas atividades
+1. Bigmac price: https://www.kaggle.com/datasets/vittoriogiatti/bigmacprice/data
+2. Netflix movies and TV Shows: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ## Conteúdo estudado e aprendido nessa disciplina
 
