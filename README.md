@@ -20,7 +20,7 @@ pip install jupyter
 *pip é o gerenciador de pacotes e bibliotecas do python, logo quando houver necessidade de instalar bibliotecas da linguagens para suas análises de dados, dê o comando pip install nome da biblioteca*
 
 4. Depois que o Jupyter for instalado você pode acessá-lo localmente pelo endereço: http://localhost:8888
-5. Para o melhor aproveitamento dos seus estudos instale as seguintes bibliotecas python: pandas, numpy e matplotlib, usando o terminal do seu sistema operacional
+5. Para o melhor aproveitamento dos seus estudos instale as seguintes bibliotecas python: pandas, numpy, matplotlib e scipy usando o terminal do seu sistema operacional
 ```
 pip install pandas numpy matplotlib scipy
 ```
